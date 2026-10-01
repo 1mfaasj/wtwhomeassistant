@@ -1,6 +1,7 @@
 {
-  "name": "Comfoair ventilation lovelace card",
+  "name": "WTW Home Assistant",
+  "content_in_root": true,
   "filename": "comfoair-card.js",
   "render_readme": true,
-  "type": "module"
+  "homeassistant": "2025.1.0"
 }
