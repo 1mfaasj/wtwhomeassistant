@@ -6,7 +6,6 @@ A custom Lovelace card for WTW / ComfoAir ventilation systems.
 
 - Inline SVG airflow visualization
 - Dynamic airflow colors based on temperatures
-- Animated airflow when fan is active
 - Safe fallbacks for unavailable entities
 - Configurable entity names
 
